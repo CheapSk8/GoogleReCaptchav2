@@ -1,0 +1,7 @@
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\bin\SampleReCaptchaApplication.dll
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\bin\SampleReCaptchaApplication.pdb
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\bin\GoogleReCaptcha.dll
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\bin\GoogleReCaptcha.pdb
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\obj\Debug\SampleReCaptchaApplication.dll
+E:\TL Stuff\GoogleReCaptcha\SampleReCaptchaApplication\obj\Debug\SampleReCaptchaApplication.pdb
